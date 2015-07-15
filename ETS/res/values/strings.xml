@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <string name="app_name">Train_ETS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+<string name="menu_settings">Settings</string>
+
+    <string name="to_arrays">Choose a country</string>
+    <string-array name="to_arrays">
+        <item>KL Sentral</item>
+        <item>Kuala Lumpur</item>
+        <item>Kepong Sentral</item>
+        <item>Sungai Buloh</item>
+        <item>Rawang</item>
+        <item>Kuala Kubu Baru</item>
+        <item>Tanjung Malim</item>
+        <item>Behrang</item>
+        <item>Slim River</item>
+        <item>Sungkai</item>
+        <item>Tapah Road</item>
+        <item>Kampar</item>
+        <item>Batu Gajah</item>
+        <item>Ipoh</item>
+    </string-array>
+
+    <string name="guest_arrays">How many person</string>
+    <string-array name="guest_arrays">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+    </string-array>
+
+
+    <string name="some_text">
+     Hello,
+ </string>
+ <string name="some_hint">
+  Type here to filter&#8230;
+ </string>
+
+</resources>
